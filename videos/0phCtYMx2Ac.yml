@@ -2,6 +2,9 @@
 
 tags:
     - javascript
+speaker:
+    name: Mikhail Kuznetcov
+    twitter: legkoletat
 title: 'Building And Deploying Ethereum Smart Contracts With Solidity and JavaScript'
 language: English
 recordingDate: 1525197601
